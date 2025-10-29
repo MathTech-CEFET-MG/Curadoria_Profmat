@@ -1,0 +1,18 @@
+# A construção do conceito de função através de atividades baseadas em situações do dia a dia
+
+Autor: __Rebeca Pereira de Souza__
+
+Defendida na __UENF__ em 23/11/16
+
+??? abstract "BibLaTeX"
+    ```latex
+    @mastersthesis{REBECA_PEREIRA_DE_SOUZA:UENF:2016,
+      author = {Rebeca Pereira de Souza},
+      title  = {A construção do conceito de função através de atividades baseadas em situações do dia a dia},
+      school = {Universidade Estadual do Norte Fluminense},
+      year   = {2016},
+      date   = {23/11/16},
+      url    = {https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=3121&id2=95212},
+    }
+
+    ```

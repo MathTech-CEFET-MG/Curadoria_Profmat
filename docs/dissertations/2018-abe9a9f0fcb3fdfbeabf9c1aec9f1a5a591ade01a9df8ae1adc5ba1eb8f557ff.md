@@ -1,0 +1,18 @@
+# Uma proposta de plano de aula em educação financeira para o Ensino Médio
+
+Autor: __Marcelo Rodrigues Salles__
+
+Defendida na __UFES__ em 03/08/18
+
+??? abstract "BibLaTeX"
+    ```latex
+    @mastersthesis{MARCELO_RODRIGUES_SALLES:UFES:2018,
+      author = {Marcelo Rodrigues Salles},
+      title  = {Uma proposta de plano de aula em educação financeira para o Ensino Médio},
+      school = {Universidade Federal do Espírito Santo},
+      year   = {2018},
+      date   = {03/08/18},
+      url    = {https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=4848&id2=150370126},
+    }
+
+    ```

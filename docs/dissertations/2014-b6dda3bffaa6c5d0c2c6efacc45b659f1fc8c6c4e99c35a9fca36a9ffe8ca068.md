@@ -1,0 +1,18 @@
+# Área e volume com auxílio do multiplano, blocos cúbicos e sólidos geométricos
+
+Autor: __Eli Paulo Campos__
+
+Defendida na __UFPB__ em 26/08/14
+
+??? abstract "BibLaTeX"
+    ```latex
+    @mastersthesis{ELI_PAULO_CAMPOS:UFPB:2014,
+      author = {Eli Paulo Campos},
+      title  = {Área e volume com auxílio do multiplano, blocos cúbicos e sólidos geométricos},
+      school = {Universidade Federal da Paraíba},
+      year   = {2014},
+      date   = {26/08/14},
+      url    = {https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=1363&id2=442},
+    }
+
+    ```

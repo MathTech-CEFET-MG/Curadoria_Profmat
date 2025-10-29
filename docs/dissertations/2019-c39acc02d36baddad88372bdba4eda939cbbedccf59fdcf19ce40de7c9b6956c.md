@@ -1,0 +1,18 @@
+# Uma análise pedagógica dos dados estatísticos das provas de Matemática dos anos finais do Ensino Fundamental do SAEB, no período de 2011 a 2017
+
+Autor: __Eloy da Silva Rocha__
+
+Defendida na __UFAM__ em 26/04/19
+
+??? abstract "BibLaTeX"
+    ```latex
+    @mastersthesis{ELOY_DA_SILVA_ROCHA:UFAM:2019,
+      author = {Eloy da Silva Rocha},
+      title  = {Uma análise pedagógica dos dados estatísticos das provas de Matemática dos anos finais do Ensino Fundamental do SAEB, no período de 2011 a 2017},
+      school = {Universidade Federal do Amazonas},
+      year   = {2019},
+      date   = {26/04/19},
+      url    = {https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=4702&id2=170030436},
+    }
+
+    ```

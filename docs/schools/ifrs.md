@@ -1,0 +1,10 @@
+# Dissertações Defendidas no<br>Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)
+
+- [Jogar contra a banca, um risco ou uma oportunidade? Uma sequência didática para ensino de probabilidade](../dissertations/2024-3a5a2712711a56e62f540daf68e5b1607c17f7f638372446fcbf2f93532045ed.md)
+- [Explorando o pensamento computacional com ênfase no desenvolvimento do pensamento algébrico na educação básica](../dissertations/2024-834b84f91994f94200579bf0952e0cab4a296171af4095ef107891a32379acd4.md)
+- [Razão e proporção através de receitas de família: uma proposta de sequência didática](../dissertations/2024-22bbc7c27d0a2d64a41db0109c854939acd5179761c038a23bc9bac8bb127938.md)
+- [Sequências numéricas recursivas nos anos finais do Ensino Fundamental: introdução à álgebra através de generalizações](../dissertations/2024-172182428278b2aaf7a7c594a8f90f400db8b82e154711f7736538b815faeb70.md)
+- [O uso de coeficientes em equações de duas variáveis e restrições no plano cartesiano: uma abordagem lúdica e diferenciada no software Desmos](../dissertations/2024-b52cf2d73c6f33b71d0bc436cb56c3fa7e6fa2edf5b2e00ba7fb66a98cc4a777.md)
+- [Uma proposta de formação continuada de matemática para docentes do Ensino Fundamental – anos iniciais: introdução à multiplicação](../dissertations/2024-80b20956fbeeb55bcb8bfc01e4f5f1739a3b65badacbe7039e555807eca5613a.md)
+- [Aprender e ensinar geometria de modo integrado à aritmética e à álgebra: possibilidade para a construção de generalizações em matemática](../dissertations/2024-30962e0daf13882fd69aff979a11dbe45ebbd6de050891e081ed3c02061418a7.md)
+- [Estatística e consumo consciente: uma proposta didática contextualizada para o 9º ano do Ensino Fundamental](../dissertations/2024-9221eb32071513ceac2921807e162af122fd71beafdc45b00e9d91c743070dc5.md)

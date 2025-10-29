@@ -1,0 +1,18 @@
+# A geometria aplicada à construção de uma ponte em arco
+
+Autor: __Fernando da Silva Souza__
+
+Defendida na __UFAC__ em 10/05/16
+
+??? abstract "BibLaTeX"
+    ```latex
+    @mastersthesis{FERNANDO_DA_SILVA_SOUZA:UFAC:2016,
+      author = {Fernando da Silva Souza},
+      title  = {A geometria aplicada à construção de uma ponte em arco},
+      school = {Universidade Federal do Acre},
+      year   = {2016},
+      date   = {10/05/16},
+      url    = {https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=2501&id2=94525},
+    }
+
+    ```

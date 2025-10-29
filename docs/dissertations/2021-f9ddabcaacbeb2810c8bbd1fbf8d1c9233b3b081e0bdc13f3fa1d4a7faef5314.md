@@ -1,0 +1,18 @@
+# A Matemática no Ensino Médio e as fontes alternativas de energia
+
+Autor: __Paulo Alexandre Mota do Nascimento__
+
+Defendida na __UFPA__ em 26/06/21
+
+??? abstract "BibLaTeX"
+    ```latex
+    @mastersthesis{PAULO_ALEXANDRE_MOTA_DO_NASCIMENTO:UFPA:2021,
+      author = {Paulo Alexandre Mota do Nascimento},
+      title  = {A Matemática no Ensino Médio e as fontes alternativas de energia},
+      school = {Universidade Federal do Pará},
+      year   = {2021},
+      date   = {26/06/21},
+      url    = {https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=6363&id2=171052939},
+    }
+
+    ```

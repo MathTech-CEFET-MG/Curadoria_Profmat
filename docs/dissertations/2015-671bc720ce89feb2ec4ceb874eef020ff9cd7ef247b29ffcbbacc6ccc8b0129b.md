@@ -1,0 +1,18 @@
+# Equações diferenciais de 1ª ordem e suas aplicações
+
+Autor: __Fabrício Raimundo Fernandes__
+
+Defendida na __USP__ em 04/09/15
+
+??? abstract "BibLaTeX"
+    ```latex
+    @mastersthesis{FABRICIO_RAIMUNDO_FERNANDES:USP:2015,
+      author = {Fabrício Raimundo Fernandes},
+      title  = {Equações diferenciais de 1\textsuperscript{a} ordem e suas aplicações},
+      school = {Universidade de São Paulo},
+      year   = {2015},
+      date   = {04/09/15},
+      url    = {https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=2139&id2=53010},
+    }
+
+    ```

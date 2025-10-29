@@ -1,0 +1,12 @@
+# Dissertações Defendidas na<br>Universidade do Estado do Amazonas (UEA)
+
+- [Provas combinatórias de identidades envolvendo coeficientes binomiais com aplicação em questões de vestibulares](../dissertations/2023-0baf4d13353b9a2cb36819a3d29370c02ac15c669fd01a1701e1bc1f3c8150b9.md)
+- [O uso do app calculadora do investidor na sala de aula: uma proposta a partir da resolução de questões olímpicas](../dissertations/2023-52920bf1f680c18524b23fb33518680bbd511e2d356f60259af70c3aaac79497.md)
+- [Estudo de equações diferenciais ordinárias de 1º e 2º ordem: modelos aplicados ao Ensino Médio](../dissertations/2023-a7d19e9e45df31d08f7e47de9c07dd5c6803b375721da7819a2c5b9e108d8b64.md)
+- [Programando funções e equações no software Pascalzim no 8º ano do Ensino Fundamental](../dissertations/2024-04fbe6306781e3f9352961267da78cd952f30b0ba06cdec0f6ff12d467948fd0.md)
+- [O uso da otimização nas equações quadráticas e desigualdade das médias como ferramenta didática no ensino da matemática](../dissertations/2024-69630ea95e2f3d5578ac865bb1ff868438b94cdd9b72747bd96372de201849d7.md)
+- [Um salto matemático no metaverso: ensino da geometria espacial na realidade imersiva](../dissertations/2024-9627ddc2680fb70e6d73f11d97428961b71c8610397b9b787bb22d7512128ea2.md)
+- [Ensino de frações na educação básica: exploração da usabilidade do simulador PhET como ferramenta de aprendizagem](../dissertations/2024-545932b54bb5da21337f1423eed200a306897950d741ff4db726c4938ee25a35.md)
+- [Fundamentos matemáticos do Ensino Básico na construção de redes neurais artificiais](../dissertations/2024-a483b6074c50567fc14890be468e69c1c607ba03a735761250530670447aea87.md)
+- [Demonstrações e resoluções sem palavras: uma abordagem pelo software GeoGebra](../dissertations/2024-f10b20d9e56f5d75dfcc87f8103e04483228105d06787bfe9acb41a65c1efd40.md)
+- [A metodologia de ensino-aprendizagem-avaliação através da resolução de problemas como estratégia de ensino no nono ano do Ensino Fundamental](../dissertations/2024-08a96697067ce3aa792298c7a41d8fb2ba7dea6a6b6c69f144be8ca228a061b2.md)
