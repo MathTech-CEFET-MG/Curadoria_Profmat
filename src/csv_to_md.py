@@ -7,6 +7,7 @@ from pathlib import Path
 from years        import create_years,   add_to_year
 from schools      import create_schools, add_to_school
 from dissertation import create_dissertation
+from numbers      import create_numbers
 
 # Input CVS files
 csv_path = Path("csv")
@@ -18,6 +19,7 @@ docs_path          = Path("docs")
 dissertations_path = docs_path / "dissertations"
 schools_path       = docs_path / "schools"
 years_path         = docs_path / "years"
+numbers_path       = docs_path / "numbers" / "numbers.md"
 
 
 #------------------------------------------------------------------------------#
@@ -55,14 +57,18 @@ def main():
 
             year = data["year"]
 
-            entry_hash = hash_row(data)
-            entry_path = f"{year}-{entry_hash}.md"
+            entry_hash    = hash_row(data)
+            entry_name    = f"{year}-{entry_hash}.md"
+            entry_path    = dissertations_path / entry_name
+            relative_path = Path("../dissertations/") / entry_name
 
-            create_dissertation(data, dissertations_path / entry_path)
-            add_to_year        (years_path,   data, Path("../dissertations/") / entry_path )
-            add_to_school      (schools_path, data, Path("../dissertations/") / entry_path )
+            create_dissertation(entry_path,    data)
+            add_to_year        (years_path,    data, relative_path)
+            add_to_school      (schools_path,  data, relative_path)
 
             ii += 1
+
+    create_numbers(numbers_path, ii)
 
     print(f"{ii} arquivos gerados com sucesso")
 

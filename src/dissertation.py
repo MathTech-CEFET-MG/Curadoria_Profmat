@@ -4,7 +4,7 @@ from biblatex import biblatex
 from abnt     import abnt
 
 #------------------------------------------------------------------------------#
-def create_dissertation(data, file_path):
+def create_dissertation(file_path, data):
     """
     Create a markdown file to a dissertation
     """
@@ -25,9 +25,6 @@ def create_dissertation(data, file_path):
             f.write(f"Observação: {note}\n\n")
 
         f.write('??? abstract "Como citar essa dissertação"\n')
-        # f.write('    ``` title="ABNT"\n')
-        # f.write(abnt(data))
-        # f.write('\n    ```\n\n')
         f.write('    __ABNT__\n\n')
         f.write(f"\n    > {abnt(data)}\n\n")
         f.write('    __BibLaTeX__\n\n')

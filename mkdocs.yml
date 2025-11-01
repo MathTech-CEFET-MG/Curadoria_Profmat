@@ -6,6 +6,10 @@ nav:
   - Início:          index.md
   - Por ano:         pages/years.md
   - Por instituição: pages/schools.md
+  - Em números:      numbers/numbers.md
+  - Editores:
+    - Luis A. D'Afonseca: pages/editors/luis.md
+    - Larissa:            pages/editors/larissa.md
 
 theme:
   name:       material
