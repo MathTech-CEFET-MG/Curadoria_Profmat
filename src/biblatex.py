@@ -67,17 +67,18 @@ def school_name( school ):
   return name
 
 #-----------------------------------------------------------------------------#
-def biblatex( row_dict ) -> str:
+def biblatex(data : dict) -> str:
 
-    year   = row_dict["Ano Corrigido"]
-    date   = row_dict["Data Corrigida"]
-    author = row_dict["Nome Corrigido"]
-    title  = unicode2latex( row_dict["Título Corrigido"] )
-    school = row_dict["Instituição Corrigida"]
-    url    = row_dict["URL"]
+    year   = data["year"]
+    date   = data["date"]
+    author = data["author"]
+    title  = data["title"]
+    school = data["school"]
+    url    = data["url"]
 
-    label  = create_label( author, school, year )
-    school = school_name ( school )
+    title  = unicode2latex( title )
+    label  = create_label ( author, school, year )
+    school = school_name  ( school )
 
     bib_str  = '    @mastersthesis{' + label  +  ',\n'
     bib_str += '      author = {'    + author + '},\n'

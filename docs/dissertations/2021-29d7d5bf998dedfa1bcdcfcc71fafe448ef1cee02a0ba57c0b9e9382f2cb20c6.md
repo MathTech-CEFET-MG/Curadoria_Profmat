@@ -1,0 +1,26 @@
+# Uma introdução às curvas elípticas sobre corpos finitos
+
+Autor: __Eduardo Vieira de Oliveira Aguiar__
+
+Defendida na __PUC__ em 02/07/21
+
+??? abstract "Como citar essa dissertação"
+    __ABNT__
+
+
+    > AGUIAR, Eduardo Vieira de Oliveira. _Uma introdução às curvas elípticas sobre corpos finitos_. Dissertação (Mestrado) — PUC, 2021. Disponível em: <https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=6117&id2=171054301>.
+
+    __BibLaTeX__
+
+    ```latex
+    @mastersthesis{EDUARDO_VIEIRA_DE_OLIVEIRA_AGUIAR:PUC:2021,
+      author = {Eduardo Vieira de Oliveira Aguiar},
+      title  = {Uma introdução às curvas elípticas sobre corpos finitos},
+      school = {?},
+      year   = {2021},
+      date   = {02/07/21},
+      url    = {https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=6117&id2=171054301},
+    }
+
+    ```
+

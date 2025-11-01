@@ -1,0 +1,26 @@
+# Aplicações de sequências e series de números reais: numero de Euler, conjunto de cantor, sequencia de Fibonacci e produto de Wallis
+
+Autor: __Iarli Barreto Leite Falcão Jr__
+
+Defendida na __UFC__ em 17/04/20
+
+??? abstract "Como citar essa dissertação"
+    __ABNT__
+
+
+    > JR, Iarli Barreto Leite Falcão. _Aplicações de sequências e series de números reais: numero de Euler, conjunto de cantor, sequencia de Fibonacci e produto de Wallis_. Dissertação (Mestrado) — UFC, 2020. Disponível em: <https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=5479&id2=171053905>.
+
+    __BibLaTeX__
+
+    ```latex
+    @mastersthesis{IARLI_BARRETO_LEITE_FALCAO_JR:UFC:2020,
+      author = {Iarli Barreto Leite Falcão Jr},
+      title  = {Aplicações de sequências e series de números reais: numero de Euler, conjunto de cantor, sequencia de Fibonacci e produto de Wallis},
+      school = {Universidade Federal do Ceará},
+      year   = {2020},
+      date   = {17/04/20},
+      url    = {https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=5479&id2=171053905},
+    }
+
+    ```
+

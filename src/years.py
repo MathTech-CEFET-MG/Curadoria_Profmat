@@ -18,13 +18,13 @@ def create_years(years_path):
 
 
 #------------------------------------------------------------------------------#
-def add_to_year(years_path, row_dict, entry_path):
+def add_to_year(years_path, data, entry_path):
     """
     Add dissertation to year file
     """
 
-    year   = row_dict["Ano Corrigido"]
-    title  = row_dict["Título Corrigido"]
+    year  = data["year"]
+    title = data["title"]
 
     file_path = years_path / f"{year}.md"
 

@@ -9,7 +9,7 @@
 - [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)](../schools/ifrs.md)
 - [Instituto Federal de São Paulo (IFSP)](                                          ../schools/ifsp.md)
 - [Instituto Nacional de Matemática Pura e Aplicada (IMPA)](                        ../schools/impa.md)
-- [Pontifícia Universidade Católica do Rio de Janeiro (PUC-RJ)](                    ../schools/puc.md)
+- [Pontifícia Universidade Católica do Rio de Janeiro (PUC-RJ)](                    ../schools/puc-rj.md)
 - [Universidade do Estado de Santa Catarina (UDESC)](                               ../schools/udesc.md)
 - [Universidade do Estado do Amazonas (UEA)](                                       ../schools/uea.md)
 - [Universidade Estadual do Ceará (UECE)](                                          ../schools/uece.md)

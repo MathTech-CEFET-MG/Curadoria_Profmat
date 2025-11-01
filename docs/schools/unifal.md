@@ -1,4 +1,4 @@
 # Dissertações Defendidas na<br>Universidade Federal de Alfenas (UNIFAL)
 
-- [Jogos de tabuleiro no ensino de números inteiros: uma proposta de sequência didática](../dissertations/2023-0606c0e89ca760d1c3ff64cab4d464c588be00ac24e644aa22b9431f5cfd6a6b.md)
-- [Análise das habilidades na prova de matemática e suas tecnologias no ENEM](../dissertations/2024-b1d2015e046de7ea3b5a0f9d1b1ad1dcefcf6cecbc7ebb4cdbe6b1ae8f0cf598.md)
+- [Jogos de tabuleiro no ensino de números inteiros: uma proposta de sequência didática](../dissertations/2023-87b8362cf7ae3e08dc823c05f37df3cd4bdd8d248ee9b32452c4f22815d3145f.md)
+- [Análise das habilidades na prova de matemática e suas tecnologias no ENEM](../dissertations/2024-c9edee99f7b402cbe441979a60bd6570959ad95ee56de32b424673cbd336d1e9.md)

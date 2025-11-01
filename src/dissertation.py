@@ -1,18 +1,19 @@
 #------------------------------------------------------------------------------#
 
 from biblatex import biblatex
+from abnt     import abnt
 
 #------------------------------------------------------------------------------#
-def create_dissertation(row_dict, file_path):
+def create_dissertation(data, file_path):
     """
     Create a markdown file to a dissertation
     """
 
-    date   = row_dict["Data Corrigida"]
-    author = row_dict["Nome Corrigido"]
-    title  = row_dict["Título Corrigido"]
-    school = row_dict["Instituição Corrigida"]
-    note   = row_dict["Note"]
+    date   = data["date"]
+    author = data["author"]
+    title  = data["title"]
+    school = data["school"]
+    note   = data["note"]
 
     with open(file_path, "w", encoding="utf-8") as f:
 
@@ -23,9 +24,15 @@ def create_dissertation(row_dict, file_path):
         if note:
             f.write(f"Observação: {note}\n\n")
 
-        f.write('??? abstract "BibLaTeX"\n')
+        f.write('??? abstract "Como citar essa dissertação"\n')
+        # f.write('    ``` title="ABNT"\n')
+        # f.write(abnt(data))
+        # f.write('\n    ```\n\n')
+        f.write('    __ABNT__\n\n')
+        f.write(f"\n    > {abnt(data)}\n\n")
+        f.write('    __BibLaTeX__\n\n')
         f.write('    ```latex\n')
-        f.write(biblatex(row_dict))
-        f.write('    ```\n')
+        f.write(biblatex(data))
+        f.write('    ```\n\n')
 
 #------------------------------------------------------------------------------#

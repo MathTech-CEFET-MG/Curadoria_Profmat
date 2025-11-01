@@ -21,12 +21,12 @@ years_path         = docs_path / "years"
 
 
 #------------------------------------------------------------------------------#
-def hash_row(row_dict):
+def hash_row(data):
     """
     Create a hash SHA256 based on line content
     """
 
-    row_string = "|".join(row_dict[col] for col in row_dict)
+    row_string = "|".join(data[col] for col in data)
 
     return hashlib.sha256(row_string.encode("utf-8")).hexdigest()
 
@@ -42,16 +42,25 @@ def main():
 
         ii = 0
 
-        for row_dict in reader:
+        for row_data in reader:
 
-            year = row_dict["Ano Corrigido"]
+            data = {}
+            data["year"]   = row_data["Ano Corrigido"]
+            data["date"]   = row_data["Data Corrigida"]
+            data["author"] = row_data["Nome Corrigido"]
+            data["title"]  = row_data["Título Corrigido"]
+            data["school"] = row_data["Instituição Corrigida"]
+            data["url"]    = row_data["URL"]
+            data["note"]   = row_data["Note"]
 
-            entry_hash = hash_row(row_dict)
+            year = data["year"]
+
+            entry_hash = hash_row(data)
             entry_path = f"{year}-{entry_hash}.md"
 
-            create_dissertation(row_dict, dissertations_path / entry_path)
-            add_to_year        (years_path,   row_dict, Path("../dissertations/") / entry_path )
-            add_to_school      (schools_path, row_dict, Path("../dissertations/") / entry_path )
+            create_dissertation(data, dissertations_path / entry_path)
+            add_to_year        (years_path,   data, Path("../dissertations/") / entry_path )
+            add_to_school      (schools_path, data, Path("../dissertations/") / entry_path )
 
             ii += 1
 

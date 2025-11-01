@@ -18,13 +18,13 @@ def create_schools(schools_path):
 
 
 #------------------------------------------------------------------------------#
-def add_to_school(schools_path, row_dict, entry_path):
+def add_to_school(schools_path, data, entry_path):
     """
     Add dissertation to year file
     """
 
-    school = row_dict["Instituição Corrigida"].lower()
-    title  = row_dict["Título Corrigido"]
+    school = data["school"].lower()
+    title  = data["title"]
 
     file_path = schools_path / f"{school}.md"
 

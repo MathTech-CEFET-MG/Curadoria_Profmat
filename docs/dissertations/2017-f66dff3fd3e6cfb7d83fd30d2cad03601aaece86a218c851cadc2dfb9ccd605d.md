@@ -1,0 +1,26 @@
+# Matemática financeira: uma proposta da construção do conceito de juros na Educação Básica
+
+Autor: __Rafael Fernandes Ferreira da Silva__
+
+Defendida na __UFRJ__ em 13/09/17
+
+??? abstract "Como citar essa dissertação"
+    __ABNT__
+
+
+    > da SILVA, Rafael Fernandes Ferreira. _Matemática financeira: uma proposta da construção do conceito de juros na Educação Básica_. Dissertação (Mestrado) — UFRJ, 2017. Disponível em: <https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=3622&id2=95192>.
+
+    __BibLaTeX__
+
+    ```latex
+    @mastersthesis{RAFAEL_FERNANDES_FERREIRA_DA_SILVA:UFRJ:2017,
+      author = {Rafael Fernandes Ferreira da Silva},
+      title  = {Matemática financeira: uma proposta da construção do conceito de juros na Educação Básica},
+      school = {Universidade Federal do Rio de Janeiro},
+      year   = {2017},
+      date   = {13/09/17},
+      url    = {https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=3622&id2=95192},
+    }
+
+    ```
+

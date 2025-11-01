@@ -1,0 +1,26 @@
+# Proposta de um livro didático com recursos de videoaulas e calculadora HP 12c para o ensino de Matemática financeira nos cursos técnicos a distância
+
+Autor: __Katson Roger Teixeira da Luz__
+
+Defendida na __UFAC__ em 22/08/17
+
+??? abstract "Como citar essa dissertação"
+    __ABNT__
+
+
+    > da LUZ, Katson Roger Teixeira. _Proposta de um livro didático com recursos de videoaulas e calculadora HP 12c para o ensino de Matemática financeira nos cursos técnicos a distância_. Dissertação (Mestrado) — UFAC, 2017. Disponível em: <https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=3496&id2=150010588>.
+
+    __BibLaTeX__
+
+    ```latex
+    @mastersthesis{KATSON_ROGER_TEIXEIRA_DA_LUZ:UFAC:2017,
+      author = {Katson Roger Teixeira da Luz},
+      title  = {Proposta de um livro didático com recursos de videoaulas e calculadora HP 12c para o ensino de Matemática financeira nos cursos técnicos a distância},
+      school = {Universidade Federal do Acre},
+      year   = {2017},
+      date   = {22/08/17},
+      url    = {https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=3496&id2=150010588},
+    }
+
+    ```
+
