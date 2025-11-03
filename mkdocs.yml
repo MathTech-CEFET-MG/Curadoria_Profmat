@@ -1,6 +1,6 @@
 
 site_name: Curadoria do Profmat
-site_url: https://curadoria_profmat.github.io
+site_url: https://mathtech-cefet-mg.github.io/Curadoria_Profmat/
 
 nav:
   - Início:          index.md
@@ -14,6 +14,8 @@ nav:
 theme:
   name:       material
   language:   pt-BR
+  logo:       imag/favicon.png
+  favicon:    imag/favicon.png
   custom_dir: docs/overrides
 
   features:
@@ -56,3 +58,8 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extras.css
+
+extra:
+  analytics:
+    provider: google
+    property: G-YKYZH0QLD2
